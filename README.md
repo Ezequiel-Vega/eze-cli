@@ -10,6 +10,9 @@ Para iniciar el cli se tiene que hacer de modo manual.
 ### Crear entorno virtual
 ## `python venv -m env`
 
+### Iniciar entorno virtual
+## `. /env/bin/activate`
+
 ### instalar cli
 ## `pip install .`
 
